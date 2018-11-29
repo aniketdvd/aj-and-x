@@ -1,0 +1,8 @@
+aj_and_x:
+  path: '/aj-and-x'
+  defaults:
+    _form: '\Drupal\aj_and_x\Form\AJAndX'
+    _title: 'This got some AJAX-ination'
+  requirements:
+    _access: 'TRUE'
+    _permission: 'access content'
